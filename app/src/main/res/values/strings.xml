@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Warsaw TourGuideApp</string>
+    <string name="poi">Points of Interest</string>
+    <string name="historic">Historic Sites</string>
+    <string name="nature">Nature&amp;Parks</string>
+    <string name="restaurants">Restaurants</string>
+
+    <!-- Points of Interest -->
+    <string name="old_town">Old Town</string>
+    <string name="old_town_desc">
+        Surrounded by beautiful seventeenth- and eighteenth-century merchants\'
+        houses, this lively square is filled with street vendors, cafes, shops,
+        galleries and some of Warsaw\'s top restaurants.
+    </string>
+    <string name="castle">Castle Square</string>
+    <string name="castle_desc">
+        Located in Old Town, this picturesque open plaza was built in 1821 and features
+        the King Zygmunt III column in its center.
+    </string>
+    <string name="palace_wilanow">Wilanów Palace</string>
+    <string name="palace_wilanow_desc">
+        Wilanów Palace survived Poland\'s partitions and both World Wars, and so serves as
+        a reminder of the culture of the Polish state as it was before the misfortunes
+        of the 18th century.
+    </string>
+
+    <string name="palace_culture">Palace of Culture and Science</string>
+    <string name="palace_culture_desc">
+        Considered Poland\'s highest building, this monumental skyscraper (circa 1955)
+        contains 42 floors at a height of 230.68 meters (756.82 feet),
+        topped with a needle height of 43 meters (141.08 feet).
+    </string>
+    <!-- End Points of Interests-->
+
+    <!-- Historical Places -->
+    <string name="uprising_museum">Warsaw Uprising Museum</string>
+    <string name="uprising_museum_desc">
+        The Warsaw Rising Museum was opened on the 60th anniversary of the outbreak
+        of fighting in Warsaw. The Museum is a tribute of Warsaw’s residents to those
+        who fought and died for independent Poland and its free capital.
+    </string>
+    <string name="palace_lazienki">Lazienki Palace</string>
+    <string name="palace_lazienki_desc">
+        Built by King Stanislaw August Poniatowski during the second half of the 18th century,
+        this neoclassical palace once served as a royal residence that is surrounded with ponds,
+        canals and magnificent park-like grounds.
+    </string>
+    <string name="royal_castle">The Royal Castle</string>
+    <string name="royal_castle_desc">
+        Serving as the central building of the Polish Commonwealth for many centuries,
+        this castle was rebuilt after it was dynamited by German troops after the Warsaw uprising,
+        and has been rebuilt to recreate the original castle\'s 17th-century architecture and interiors.
+    </string>
+    <string name="krakowskie">Krakowskie Przedmiescie</string>
+    <string name="krakowskie_desc">
+        This 2.5 mile "Road of Kings" leads from The Royal Castle (Old Town) to Wilanow Palace.
+    </string>
+    <!-- End Historical Places-->
+
+    <!-- Nature & Parks -->
+    <string name="lazienki">Lazienki - Royal Residence Park</string>
+    <string name="lazienki_desc">
+        Magnificent palatial and garden complex was built by King Stanislaw August Poniatowski
+        during the second half of the eighteenth century and features the neoclassical
+        Palace on the Water (Lazienki Palace) surrounded by magnificent gardens, canals and ponds.
+    </string>
+    <string name="saxon_gardens">Saxon Gardens</string>
+    <string name="saxon_gardens_desc">
+        Once serving as the gardens of Saxon Palace, this magnificent park features
+        shady tree-lined avenues, Baroque sculptures, an elegant 19-century fountain and
+        the Tomb of the Unknown Soldier, a grave reminder of Poland\'s recent past.
+    </string>
+    <string name="park_ujazdowski">Park Ujazdowski</string>
+    <string name="park_ujazdowski_desc">
+        Ujazdów Park (Polish: Park Ujazdowski) is one of the most picturesque parks of Warsaw, Poland.
+        It borders Aleje Ujazdowskie (Ujazdów Avenue), with its many embassies and Sejm building.
+    </string>
+    <string name="park_skaryszewski">Park Skaryszewski</string>
+    <string name="park_skaryszewski_desc">
+        Skaryszewski Park is an urban, monumental park located in the Praga Południe district of Warsaw.
+        The park was designed and created by Franciszek Szanior in 1905.
+    </string>
+    <!-- End Nature & Parks-->
+
+    <!-- Restaurants -->
+    <string name="stary_dom">Stary Dom</string>
+    <string name="stary_dom_desc">
+        The Stary Dom Restaurant refers back to the best traditions of Polish cuisine and welcoming
+        atmosphere. The design alludes to traditional interiors connected with the home hearth.
+        This makes the restaurant an ideal location for meetings of family and close friends.
+        For non Poles it gives a taste of traditional Polish hospitality.
+    </string>
+    <string name="n31">N&#xb0;31</string>
+    <string name="n31_desc">
+        N31 restaurant&amp;bar is an authorial restaurant run by master chef Robert Sowa.
+        The basic menu consists of traditional Polish meals with an international touch,
+        served in an unusual way.
+    </string>
+    <string name="amber">Amber Room</string>
+    <string name="amber_desc">
+        Located within the charming Sobanski Palace on Avenue Ujazdowskie, perhaps the
+        most prestigious street in Warsaw, the venue is an island of serenity,
+        distinguishing itself as place that offers an atmosphere of soft elegance surrounded
+        by the soothing environs of leafy trees and green parks. In Palac Sobanski,
+        beside The Amber Room restaurant; the Polish Business Roundtable Club is located.
+    </string>
+    <string name="delicja">Delicja Polska</string>
+    <string name="delicja_desc">
+        Delicja Polska is a restaurant in Warsawoffering a unique atmosphere,
+        created by its delicious traditional Polish cuisine, cozy and romantic interior
+        and truly high restaurant service standard. We endeavor to serve tasty dishesthat satisfy
+        and exceedour customers’ expectations.
+    </string>
+    <!-- Restaurants-->
+
+
+</resources>
