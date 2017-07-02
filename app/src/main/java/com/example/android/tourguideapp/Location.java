@@ -1,14 +1,12 @@
 package com.example.android.tourguideapp;
 
-import android.support.v7.app.AppCompatActivity;
-
 import java.util.Random;
 
 /**
  * Created by an0o0nym on 25/06/17.
  */
 
-public class Location extends AppCompatActivity {
+public class Location {
     private String locTitle;
     private String description;
     private int imgResource;
